@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/ac">
+        <file>simgeler/klasor.png</file>
+        <file>simgeler/kaydet.png</file>
+        <file>simgeler/kapat.png</file>
+        <file>simgeler/yukle.png</file>
+        <file>simgeler/durdur.png</file>
+        <file>simgeler/sil.png</file>
+        <file>simgeler/oku.png</file>
+        <file>simgeler/dogrula.png</file>
+        <file>simgeler/tara.png</file>
+        <file>simgeler/hakkinda.png</file>
+    </qresource>
+    <qresource prefix="/simge">
+        <file>simgeler/chip-icon.png</file>
+    </qresource>
+</RCC>
