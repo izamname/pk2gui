@@ -6,5 +6,5 @@ open pk2gui.pro with qtcreator and debug.
 
 OR 
 
-There is deb package in  "package" folder. This package tested linux mint and ubuntu.
+There is deb package in  "package" folder. This package is tested linux mint and ubuntu.
 
