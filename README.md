@@ -1,6 +1,6 @@
 
 
-This software made with qt-creator 5.5.1. 
+This software is made with qt-creator 5.5.1. 
 
 İnstalling
 
